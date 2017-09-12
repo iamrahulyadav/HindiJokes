@@ -116,7 +116,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 data.add(cursor.getString(indexDATE));
 
             } while (cursor.moveToNext());
-            //Collections.shuffle(data);
         }
 
         return data;
