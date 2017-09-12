@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="first_actionBar">#FF239BEA</color>
+    <color name="second_actionBar">#aa14f5</color>
+    <color name="third_actionBar">#f51445</color>
+    <color name="fourth_actionBar">#f77f0e</color>
+    <color name="fifth_actionBar">#14d0f5</color>
+    <color name="six_actionBar">#f4235b</color>
+    <color name="seventh_actionBar">#09d113</color>
+    <color name="eight_actionBar">#04bf9d</color>
+    <color name="ninth_actionBar">#c6cc09</color>
+    <color name="tenth_actionBar">#cc580c</color>
+
+    <color name="first_statusBar">#1d7fbf</color>
+    <color name="second_statusBar">#6f0ba1</color>
+    <color name="third_statusBar">#bf1036</color>
+    <color name="fourth_statusBar">#c4640a</color>
+    <color name="fifth_statusBar">#0fa1be</color>
+    <color name="six_statusBar">#c41d4a</color>
+    <color name="seventh_statusBar">#069e0e</color>
+    <color name="eight_statusBar">#03997e</color>
+    <color name="ninth_statusBar">#9fa407</color>
+    <color name="tenth_statusBar">#a44608</color>
+
+
+
+</resources>
